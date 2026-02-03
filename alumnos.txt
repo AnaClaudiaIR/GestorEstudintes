@@ -1,0 +1,10 @@
+Juan;7.5
+Ana;8.2
+Luis;4.9
+María;9.1
+Tania;7.8
+Juan;6.8
+Tania;7.8
+Luis;2.6
+María;5.3
+Juan;9.4

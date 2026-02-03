@@ -1,0 +1,25 @@
+---INFORMACIÓN DE LOS ALUMNOS---
+
+1. NOTAS DE LOS ALUMNOS
+Tania: [7.8, 7.8]
+Ana: [8.2]
+Luis: [4.9, 2.6]
+María: [9.1, 5.3]
+Juan: [7.5, 6.8, 9.4]
+
+2. MEDIAS DE LOS ALUMNOS
+Alumno: Luis - Nota Media: 3,75
+Alumno: María - Nota Media: 7,20
+Alumno: Tania - Nota Media: 7,80
+Alumno: Juan - Nota Media: 7,90
+Alumno: Ana - Nota Media: 8,20
+
+3. MEDIA MÁS ALTA
+Alumno: Ana - Nota Media: 8,20
+
+4. ALUMNOS APROBADOS
+Tania: 7,80 - APROBADO.
+Ana: 8,20 - APROBADO.
+Luis: 3,75 - NO APROBADO.
+María: 7,20 - APROBADO.
+Juan: 7,90 - APROBADO.
